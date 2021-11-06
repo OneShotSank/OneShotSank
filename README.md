@@ -9,4 +9,4 @@ uhhhh, here stuff with cool emoji
 - ⚡ funfact : there is always something touching you
 
 **goodbi**
-oh hey kotlin is amazing
+oh wait ye kotlin is amazing
